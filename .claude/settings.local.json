@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(git -C \"C:\\\\부동산관련정리\\\\부동산전략\" status --porcelain)",
+      "Bash(git -C \"C:\\\\부동산관련정리\\\\부동산전략\" log --oneline -10)",
+      "Bash(find:*)",
+      "WebFetch(domain:hogangnono.com)",
+      "WebFetch(domain:www.aptrank.com)",
+      "WebFetch(domain:www.aptbong.com)",
+      "WebFetch(domain:xn--989a00af8jnslv3dba.com)",
+      "WebFetch(domain:zippoom.com)",
+      "WebFetch(domain:datainkorea.com)",
+      "Bash(echo:*)"
+    ]
+  }
+}
